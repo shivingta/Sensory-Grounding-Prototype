@@ -1,0 +1,6 @@
+{
+  "name": "Mannkaa 5-4-3-2-1 Sensory Grounding",
+  "description": "Anchor your mind to your surroundings with the 5-4-3-2-1 sensory grounding technique in a calm twilight mobile interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
